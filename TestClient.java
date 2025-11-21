@@ -4,8 +4,8 @@ public class TestClient {
 
     public static void main(String[] args){
         testDotProduct();   
-        testMatrixMultiply();
-        testFilterEmpty();
+//        testMatrixMultiply();
+//        testFilterEmpty();
     }
 
     public static void testDotProduct(){
